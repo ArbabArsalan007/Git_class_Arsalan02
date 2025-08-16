@@ -1,0 +1,8 @@
+
+temp/
+DevFile.txt
+
+*.log
+*.tmp
+*.bak  
+*.ini
